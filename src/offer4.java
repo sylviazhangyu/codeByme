@@ -1,6 +1,8 @@
 /**
  * Created by marvel-JY on 2018/8/3.
  */
+
+/*字符替换*/
 public class offer4 {
     public static String replaceSpace(StringBuilder str){
         if (str == null){

@@ -12,6 +12,8 @@
  *    }
  *
  */
+
+/*从尾到头打印链表*/
 import java.util.ArrayList;
 import java.util.Stack;
 

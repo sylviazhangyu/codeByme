@@ -1,6 +1,8 @@
 /**
  * Created by marvel-JY on 2018/8/3.
  */
+
+/*用栈实现队列的push&pop操作*/
 import java.util.Stack;
 
 public class offer7 {

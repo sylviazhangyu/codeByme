@@ -3,6 +3,8 @@ import java.util.Scanner;
 /**
  * Created by marvel-JY on 2018/8/3.
  */
+
+/*数字查找*/
 public class offer3 {
     public static boolean find(int[][] array, int target){
         if (array == null){

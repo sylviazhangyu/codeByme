@@ -3,6 +3,8 @@ import java.lang.reflect.Array;
 /**
  * Created by marvel-JY on 2018/8/3.
  */
+
+/*树的打印：主要运用递归*/
 import java.util.Arrays;
 public class offer6 {
     public static class TreeNode {
